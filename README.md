@@ -1,6 +1,6 @@
 # CoronaVirusDataset
 This dataset contains X-RAY and CT Scan of Corona Virus Infected cases.
-All images and data is publicly available for contribution. The dataset contains 60 cases from different age groups.
+All images and data is publicly available for contribution. The dataset contains 60 cases from different age groups, totalling 357 number of Chest X-RAY and CT Scans.
 
 # Dataset Gathering
 This dataset was scraped from SIRM Website.
