@@ -29,6 +29,3 @@ Note: More data is needed to perform the following tasks or mission.
 * Chances of Survival
 * Bacterial vs Covid19
 
-
-* 
-
